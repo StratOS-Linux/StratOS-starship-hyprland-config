@@ -2,4 +2,5 @@ post_install() {
     echo "==> Starship configuration files have been copied to /etc/skel."
     echo "==> You may copy these files to ~/.config/ and make any changes you wish."
     echo "==> You can choose either Gruvbox or TokyoNight-Dark."
+    echo "    cp /etc/skel/.config/starship.toml ~/.config/"
 }
