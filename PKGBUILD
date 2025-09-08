@@ -1,7 +1,7 @@
 # Maintainer: @zstg <zestig@duck.com>
-pkgname=stratos-starship-config
+pkgname=stratos-starship-hyprland-config
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Starship configuration for StratOS"
 arch=('any')
 license=('GPL3')
